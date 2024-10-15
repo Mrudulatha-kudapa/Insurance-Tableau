@@ -1,4 +1,4 @@
-# Insurance-Tableau
+# Tableau Project: Vehicle Insurance Analysis
 The aim of this project is to develop an insightful vehicle insurance cross-sell analysis dashboard using Tableau. The dashboard will provide stakeholders with a comprehensive overview of client demographics, insurance coverage, and interest in vehicle insurance, enabling informed decision-making for targeted marketing strategies.
 KPIs (Presented inside a Donut Chart):
 The donut chart represents the percentage of the total of all metrics, with the remaining portion indicating clients not falling into the specified categories.
